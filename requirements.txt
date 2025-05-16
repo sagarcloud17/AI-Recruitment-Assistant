@@ -4,4 +4,3 @@ numpy
 openai
 python-dotenv
 PyPDF2
-langchain_openai
